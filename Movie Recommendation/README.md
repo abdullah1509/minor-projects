@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## ## How to run the program
+## How to run the program
 * Clone the repository
 * Create new environment
       <pre><code>conda create -n newenv python==3.6</code></pre>
