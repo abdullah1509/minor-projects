@@ -1,7 +1,6 @@
 # Movie Recommendation System
 
-Access the Project Online
-https://recommend-some-movie.herokuapp.com/
+Access the Project: https://recommend-some-movie.herokuapp.com/
 
 ## How to run the program
 * Clone the repository
