@@ -1,6 +1,0 @@
-numpy
-pickle
-streamlit
-streamlit-option-menu
-scikit-learn
-requests
