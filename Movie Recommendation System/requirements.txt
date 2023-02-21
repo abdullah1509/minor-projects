@@ -1,5 +1,0 @@
-numpy
-pickle
-streamlit
-scikit-learn
-requests
