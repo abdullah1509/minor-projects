@@ -32,10 +32,6 @@ This project is about...
 
 [Link to Project 1 Folder](/project-1/)
 
-### Screenshots
-
-![Screenshot 1](/project-1/screenshots/screenshot1.png)
-![Screenshot 2](/project-1/screenshots/screenshot2.png)
 
 ## Book Recommendation System
 
@@ -53,10 +49,6 @@ This project is about...
 
 [Link to Project 2 Folder](/project-2/)
 
-### Screenshots
-
-![Screenshot 1](/project-2/screenshots/screenshot1.png)
-![Screenshot 2](/project-2/screenshots/screenshot2.png)
 
 ## Color Detector
 
@@ -74,10 +66,6 @@ This project is about...
 
 [Link to Project 3 Folder](/project-3/)
 
-### Screenshots
-
-![Screenshot 1](/project-3/screenshots/screenshot1.png)
-![Screenshot 2](/project-3/screenshots/screenshot2.png)
 
 ## Face Detector
 
@@ -95,10 +83,6 @@ This project is about...
 
 [Link to Project 4 Folder](/project-4/)
 
-### Screenshots
-
-![Screenshot 1](/project-4/screenshots/screenshot1.png)
-![Screenshot 2](/project-4/screenshots/screenshot2.png)
 
 ## Contributing
 
@@ -109,6 +93,4 @@ If you'd like to contribute to any of these projects or report issues, please fo
 3. Make your changes.
 4. Create a pull request (PR) to submit your changes for review.
 
-## License
 
-This repository is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
