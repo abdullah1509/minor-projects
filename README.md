@@ -8,7 +8,7 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 - [Book Recommendation System](#Book-Recommendation-System)
 - [Color Detector](#Color-Detector)
 - [Face Detector](#Face-Detector)
-- [Human Dtection](#Human-Detection)
+- [Human Detection](#Human-Detection)
 - [Movie Recommendation System](#Movie-Recommendation-System)
 - [Olympic Analysis](#Olympic-Analysis)
 - [Text Recognition Model](#Text-Recognition-Model)
@@ -29,7 +29,6 @@ Article Summarizer is a Streamlit web application that allows users to input URL
 - OpenAI
 - LangChain
 - Streamlit
-- ...
 
 ### Folder Location
 
@@ -48,6 +47,7 @@ A content-based book recommendation system powered by machine learning and deplo
 - Machine Learning
 - Data Analysis
 - Natural Language Processing
+- Streamlit
 
 ### Folder Location
 
@@ -58,17 +58,16 @@ A content-based book recommendation system powered by machine learning and deplo
 
 ### Description
 
-This project is about...
+A simple color detection tool that provides the color code of any pixel when you click anywhere on the screen. Easily identify and obtain the color values from your screen with a single click.
 
 ### Technologies Used
 
-- Technology 1
-- Technology 2
-- ...
+- Python
+- CV2
 
 ### Folder Location
 
-[Link to Project 3 Folder](/project-3/)
+[https://github.com/abdullah1509/minor-projects/tree/main/Color%20Detector](/Color-Detector/)
 
 
 ## Face Detector
