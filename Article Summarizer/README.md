@@ -69,3 +69,10 @@ streamlit run app.py
 * FAISS
 
   
+# Screenshot
+![A1](https://github.com/abdullah1509/minor-projects/assets/58501537/8c505acc-5071-4744-824e-baeb9f5eabb1)
+
+![A2](https://github.com/abdullah1509/minor-projects/assets/58501537/4bd5e128-7a05-4cd5-a132-510969955b35)
+
+![A3](https://github.com/abdullah1509/minor-projects/assets/58501537/4b9c7a4e-0381-4074-b0a9-4143bfb46345)
+
