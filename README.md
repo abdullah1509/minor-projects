@@ -4,12 +4,17 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 ## Table of Contents
 
-- [Project 1](#project-1)
-- [Project 2](#project-2)
-- [Project 3](#project-3)
-- [Project 4](#project-4)
-- [Contributing](#contributing)
-- [License](#license)
+- [Article Summarizer](#Article Summarizer)
+- [Book Recommendation System](#Book Recommendation System)
+- [Color Detector](#Color Detector)
+- [Face Detector](#Face Detector)
+- [Human Dtection](#Human Detection)
+- [Movie Recommendation System](#Movie Recommendation System)
+- [Olympic Analysis](#Olympic Analysis)
+- [Text Recognition Model](#Text Recognition Model)
+- [Text to Audio Converter](#Text to Audio Converter)
+- [Voice Assistant](#Voice Assistant)
+- [Voice Recognition Model](#Voice Recognition Model)
 
 ## Project 1
 
