@@ -18,7 +18,7 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 ## Article Summarizer
 
-##### Description
+**##### Description**
 
 Article Summarizer is a Streamlit web application that allows users to input URLs of articles, which are then processed to generate summaries of the articles using OpenAI's language model, GPT-3.5. The application also provides the ability to ask questions about the content of the articles.
 
