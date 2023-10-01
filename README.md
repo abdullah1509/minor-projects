@@ -6,15 +6,15 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 - [Article Summarizer](#Article-Summarizer)
 - [Book Recommendation System](#Book-Recommendation-System)
-- [Color Detector](#Color Detector)
-- [Face Detector](#Face Detector)
-- [Human Dtection](#Human Detection)
-- [Movie Recommendation System](#Movie Recommendation System)
-- [Olympic Analysis](#Olympic Analysis)
-- [Text Recognition Model](#Text Recognition Model)
-- [Text to Audio Converter](#Text to Audio Converter)
-- [Voice Assistant](#Voice Assistant)
-- [Voice Recognition Model](#Voice Recognition Model)
+- [Color Detector](#Color-Detector)
+- [Face Detector](#Face-Detector)
+- [Human Dtection](#Human-Detection)
+- [Movie Recommendation System](#Movie-Recommendation-System)
+- [Olympic Analysis](#Olympic-Analysis)
+- [Text Recognition Model](#Text-Recognition-Model)
+- [Text to Audio Converter](#Text-to-Audio-Converter)
+- [Voice Assistant](#Voice-Assistant)
+- [Voice Recognition Model](#Voice-Recognition-Model)
 
 ## Article Summarizer
 
