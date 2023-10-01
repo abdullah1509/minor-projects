@@ -16,7 +16,7 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 - [Voice Assistant](#Voice Assistant)
 - [Voice Recognition Model](#Voice Recognition Model)
 
-## Project 1
+## Article Summarizer
 
 ### Description
 
@@ -37,7 +37,7 @@ This project is about...
 ![Screenshot 1](/project-1/screenshots/screenshot1.png)
 ![Screenshot 2](/project-1/screenshots/screenshot2.png)
 
-## Project 2
+## Book Recommendation System
 
 ### Description
 
@@ -58,7 +58,7 @@ This project is about...
 ![Screenshot 1](/project-2/screenshots/screenshot1.png)
 ![Screenshot 2](/project-2/screenshots/screenshot2.png)
 
-## Project 3
+## Color Detector
 
 ### Description
 
@@ -79,7 +79,7 @@ This project is about...
 ![Screenshot 1](/project-3/screenshots/screenshot1.png)
 ![Screenshot 2](/project-3/screenshots/screenshot2.png)
 
-## Project 4
+## Face Detector
 
 ### Description
 
