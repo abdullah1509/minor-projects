@@ -4,8 +4,8 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 ## Table of Contents
 
-- [Article-Summarizer](#Article-Summarizer)
-- [Book Recommendation System](#Book Recommendation System)
+- [Article Summarizer](#Article-Summarizer)
+- [Book Recommendation System](#Book-Recommendation-System)
 - [Color Detector](#Color Detector)
 - [Face Detector](#Face Detector)
 - [Human Dtection](#Human Detection)
