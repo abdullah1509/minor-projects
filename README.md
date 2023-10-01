@@ -30,10 +30,6 @@ Article Summarizer is a Streamlit web application that allows users to input URL
 - LangChain
 - Streamlit
 
-### Folder Location
-
-[https://github.com/abdullah1509/minor-projects/tree/main/Article%20Summarizer](/Article%20Summarizer/)
-
 
 ## Book Recommendation System
 
@@ -49,10 +45,6 @@ A content-based book recommendation system powered by machine learning and deplo
 - Natural Language Processing
 - Streamlit
 
-### Folder Location
-
-[https://github.com/abdullah1509/minor-projects/tree/main/Book%20Recommendation%20System](/Book%20Recommendation%20System/)
-
 
 ## Color Detector
 
@@ -65,26 +57,30 @@ A simple color detection tool that provides the color code of any pixel when you
 - Python
 - CV2
 
-### Folder Location
-
-[https://github.com/abdullah1509/minor-projects/tree/main/Color%20Detector](/Color-Detector/)
-
 
 ## Face Detector
 
 ### Description
 
-This project is about...
+An advanced face detection system that accurately recognizes human faces from any angle using XML-based models. Easily detect and identify faces in images and video streams with robust performance.
 
 ### Technologies Used
 
-- Technology 1
-- Technology 2
-- ...
+- Python
+- CV2
+- XML
 
-### Folder Location
+## Human Detection
 
-[Link to Project 4 Folder](/project-4/)
+### Description
+
+A high-performance human detection system that identifies humans in running videos. This system uses advanced computer vision techniques to accurately locate and track human subjects in real-time video streams.
+
+### Technologies Used
+
+- Python
+- CV2
+
 
 
 ## Contributing
