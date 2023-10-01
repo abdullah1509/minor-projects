@@ -33,5 +33,7 @@ To get started with the Article Summarizer, follow these steps:
 ```
 
 
-### 1.  Navigate to the project directory:
+#### 1.  Navigate to the project directory:
+```
 cd article-summarizer
+````
