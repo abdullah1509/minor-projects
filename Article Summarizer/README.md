@@ -30,6 +30,7 @@ To get started with the Article Summarizer, follow these steps:
 
    ```bash
    git clone https://github.com/abdullah1509/article-summarizer.git
+   ```bash
 
 1. Navigate to the project directory:
 cd article-summarizer
