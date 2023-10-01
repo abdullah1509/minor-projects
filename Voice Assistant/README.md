@@ -9,7 +9,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
+- [Screenshots](#Screenshots)
 
 ## Demo
 
