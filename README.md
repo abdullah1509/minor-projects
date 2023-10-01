@@ -18,11 +18,11 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 ## Article Summarizer
 
-### Description
+##### Description
 
 Article Summarizer is a Streamlit web application that allows users to input URLs of articles, which are then processed to generate summaries of the articles using OpenAI's language model, GPT-3.5. The application also provides the ability to ask questions about the content of the articles.
 
-### Technologies Used
+##### Technologies Used
 
 - Python
 - Machine Learning
@@ -33,11 +33,11 @@ Article Summarizer is a Streamlit web application that allows users to input URL
 
 ## Book Recommendation System
 
-### Description
+##### Description
 
 A content-based book recommendation system powered by machine learning and deployed using Streamlit. This project suggests books to users based on their preferences and the content of books they've enjoyed. Explore personalized reading recommendations with ease.
 
-### Technologies Used
+##### Technologies Used
 
 - Python
 - Machine Learning
@@ -48,11 +48,11 @@ A content-based book recommendation system powered by machine learning and deplo
 
 ## Color Detector
 
-### Description
+##### Description
 
 A simple color detection tool that provides the color code of any pixel when you click anywhere on the screen. Easily identify and obtain the color values from your screen with a single click.
 
-### Technologies Used
+##### Technologies Used
 
 - Python
 - CV2
@@ -60,11 +60,11 @@ A simple color detection tool that provides the color code of any pixel when you
 
 ## Face Detector
 
-### Description
+##### Description
 
 An advanced face detection system that accurately recognizes human faces from any angle using XML-based models. Easily detect and identify faces in images and video streams with robust performance.
 
-### Technologies Used
+##### Technologies Used
 
 - Python
 - CV2
@@ -72,11 +72,11 @@ An advanced face detection system that accurately recognizes human faces from an
 
 ## Human Detection
 
-### Description
+##### Description
 
 A high-performance human detection system that identifies humans in running videos. This system uses advanced computer vision techniques to accurately locate and track human subjects in real-time video streams.
 
-### Technologies Used
+##### Technologies Used
 
 - Python
 - CV2
