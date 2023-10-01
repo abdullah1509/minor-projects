@@ -26,7 +26,10 @@ A live demo of the application can be found [here](#).
 
 To get started with the Article Summarizer, follow these steps:
 
-1. Clone this repository to your local machine:
+### Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/abdullah1509/article-summarizer.git
+
+1. Navigate to the project directory:
+cd article-summarizer
