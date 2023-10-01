@@ -40,17 +40,18 @@ Article Summarizer is a Streamlit web application that allows users to input URL
 
 ### Description
 
-This project is about...
+A content-based book recommendation system powered by machine learning and deployed using Streamlit. This project suggests books to users based on their preferences and the content of books they've enjoyed. Explore personalized reading recommendations with ease.
 
 ### Technologies Used
 
-- Technology 1
-- Technology 2
-- ...
+- Python
+- Machine Learning
+- Data Analysis
+- Natural Language Processing
 
 ### Folder Location
 
-[Link to Project 2 Folder](/project-2/)
+[https://github.com/abdullah1509/minor-projects/tree/main/Book%20Recommendation%20System](/Book%20Recommendation%20System/)
 
 
 ## Color Detector
