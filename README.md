@@ -33,7 +33,7 @@ Article Summarizer is a Streamlit web application that allows users to input URL
 
 ### Folder Location
 
-[Link to Project 1 Folder](https://github.com/abdullah1509/minor-projects/tree/main/Article%20Summarizer)](/Article-Summarizer/)
+[https://github.com/abdullah1509/minor-projects/tree/main/Article%20Summarizer](/Article-Summarizer/)
 
 
 ## Book Recommendation System
