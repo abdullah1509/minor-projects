@@ -20,17 +20,20 @@ Welcome to my "Minor Projects" GitHub repository! This repository contains a col
 
 ### Description
 
-This project is about...
+Article Summarizer is a Streamlit web application that allows users to input URLs of articles, which are then processed to generate summaries of the articles using OpenAI's language model, GPT-3.5. The application also provides the ability to ask questions about the content of the articles.
 
 ### Technologies Used
 
-- Technology 1
-- Technology 2
+- Python
+- Machine Learning
+- OpenAI
+- LangChain
+- Streamlit
 - ...
 
 ### Folder Location
 
-[Link to Project 1 Folder](/project-1/)
+[[Link to Project 1 Folder](https://github.com/abdullah1509/minor-projects/tree/main/Article%20Summarizer)](/Article-Summarizer/)
 
 
 ## Book Recommendation System
