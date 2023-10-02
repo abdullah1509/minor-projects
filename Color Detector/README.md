@@ -15,8 +15,7 @@ Welcome to the Color Detection repository! This project is a simple yet powerful
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [How to run the program](#How-to-run-the-program)
 
 ## Features
 
@@ -36,6 +35,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
    ```
+
+## Usage
+
+ - Start the Color Detection program as instructed in the "Getting Started" section.
+ - Move your mouse cursor to the area on your screen where you want to identify the color.
+ - Click anywhere, and the color code will be shown on the screen.
+ - You can copy the color code for use in your design or development projects.
 
 ## How to run the program
 * Clone the repository
