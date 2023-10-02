@@ -23,7 +23,7 @@ Screenshot 2
 
 ## Demo
 
-You can try out the Content-Based Book Recommendation System by visiting our live demo [[here](https://bookismine.herokuapp.com/)](#).
+You can try out the Content-Based Book Recommendation System by visiting our live demo [[here](https://bookismine.herokuapp.com/)].
 
 ## Features
 
