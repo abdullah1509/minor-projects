@@ -2,18 +2,15 @@
 
 **Voice Assistant** is a Python-based voice-controlled assistant that allows you to interact with your computer using voice commands. It can perform various tasks such as searching the web, answering questions, telling jokes, and more.
 
+## Screenshot
+![Screenshot (7)](https://github.com/abdullah1509/minor-projects/assets/58501537/35a9139e-ef12-4b96-9dc5-e67795e28d23)
+
+
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Screenshots](#Screenshots)
-
-## Demo
-
-You can see a demo of the Voice Assistant in action [here](#).
 
 ## Features
 
@@ -38,28 +35,11 @@ To get started with the Voice Assistant, follow these steps:
    git clone https://github.com/your-username/voice-assistant.git
    ```
 
-# Usage
-To interact with the voice assistant, say "computer" followed by your command. For example, "computer, tell me a joke."
-
-You can use commands like:
-
-* "hello"
-* "Wikipedia [your query]"
-* "what is [your question]?"
-* "take a note" (followed by dictating the note)
-* "open [website name]"
-* "how are you?"
-* "tell me a joke"
-* "who am I?"
-* "what is love?"
-* "which day is it?"
-* "tell me the time"
-* "tell me your name"
-* "bye" or "exit" to close the assistant.
-* The voice assistant will respond to your commands and carry out the requested tasks.
-
 # Dependencies
 
+* Python
+* Machine Learning
+* Natural Language Processing
 * SpeechRecognition
 * pyttsx3
 * webbrowser
