@@ -12,16 +12,11 @@ Welcome to the Color Detection repository! This project is a simple yet powerful
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-You can try out the Color Detection tool by visiting our live demo [here](#).
 
 ## Features
 
@@ -40,7 +35,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-
+   ```
 
 ## How to run the program
 * Clone the repository
@@ -51,5 +46,3 @@ To run this project locally, follow these steps:
 * Set current working directory to file location
 * Type the following command:
     <pre><code>python main.py -i image.jpg</code></pre>
-
-
