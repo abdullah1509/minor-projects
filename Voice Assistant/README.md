@@ -47,4 +47,3 @@ To get started with the Voice Assistant, follow these steps:
 * wolframalpha
 * pyjokes
 
-# Screenshots
