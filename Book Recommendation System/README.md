@@ -17,9 +17,6 @@ Screenshot 2
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -44,8 +41,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
+   ```
 
+## Usage
 
-
-Link of project: 
+ - Input your book preferences, such as preferred genre or keywords, into the provided fields.
+ - Click the "Recommend" button to receive personalized book recommendations.
+ - Explore the recommended books and click on a book to view more details.
+ - Enjoy discovering new books that match your interests!
 
