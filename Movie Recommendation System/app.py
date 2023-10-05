@@ -2,6 +2,8 @@ import pickle
 import streamlit as st
 import requests
 
+st.set_page_config(page_title='Movie Recommendation System')
+
 st.sidebar.title('ABDULLAH')
 st.sidebar.image('pic.jpg')
 st.sidebar.write('[RESUME](https://drive.google.com/file/d/1b9ETkl7xKlciu2Ui7zCPfApt6UXt5w9R/view?usp=sharing)')
